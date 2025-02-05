@@ -10,6 +10,24 @@
 
 <p align="left">HI ! Its Rizon Ahmed<br><br>Front-End MERN Stack Developer | Passionate about Crafting Interactive UIs<br>🔥 My Tech Stack<br>⚛ React.js, Next.js – Crafting seamless UIs<br>🎨 Tailwind CSS, Styled Components – Designing with style<br>🛠 Node.js, Express.js – Backend wizardry<br>📡 MongoDB, Firebase – Storing the magic<br><br>📫 Let's Connect<br>🚀 GitHub: [your-github-link]<br>💼 Portfolio: [your-portfolio-link]<br>👨‍💻 Turning ideas into smooth, scalable, and stunning web experiences.<br>⚡ Love working with React, Tailwind CSS, and modern JavaScript frameworks.<br>🎯 Always learning, always improving—because great code is never finished.</p>
 
+
+###
+
+<img align='right' src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif?cid=790b7611vwlbfsm6db0jhjbz7zspou2oa9fid65dvq0umwiw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230">
+
+
+const walidur = {
+  pronouns: "he" | "him",
+  tools_libraries: ["Bootstrap(CSS Framework)", "Tailwind(CSS utility-first framework)"],
+  ui_code: ["HTML5", "CSS3", "JavaScript", "React(JavaScript library for UI development)"],
+  authenticatin: "Firebase(Authentication & backend services)",
+  backend: ["NODE", "Express"],
+  database: "MongoDB(NoSQL database)",
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and next"
+}
+
+
+
 ###
 
 <h2 align="center">I code with</h2>
