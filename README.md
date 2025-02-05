@@ -16,24 +16,6 @@
 
 ###
 
-<img align='right' src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif?cid=790b7611vwlbfsm6db0jhjbz7zspou2oa9fid65dvq0umwiw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230">
-
-
-```javascript
-const rizon = {
-  pronouns: "he" | "him",
-  tools_libraries: ["Bootstrap(CSS Framework)", "Tailwind(CSS utility-first framework)"],
-  ui_code: ["HTML5", "CSS3", "JavaScript", "React(JavaScript library for UI development)"],
-  authenticatin: "Firebase(Authentication & backend services)",
-  backend: ["NODE", "Express"],
-  database: "MongoDB(NoSQL database)",
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and next"
-}
-```
-
-###
-
-
 <h2 align="center">I code with</h2>
 
 ###
@@ -86,6 +68,8 @@ const rizon = {
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/rizonahmed/rizonahmed/output/snake.svg" alt="Snake animation" />
 
