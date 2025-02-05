@@ -16,6 +16,27 @@
 
 ###
 
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning NextJS<br>🎯 Goals: Become a senior developer by 2025<br>🎲 Fun fact: I like to play 'Vice City' game 😎😎</p>
+
+###
+
+<img align='right' src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif?cid=790b7611vwlbfsm6db0jhjbz7zspou2oa9fid65dvq0umwiw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230">
+
+
+```javascript
+const walidur = {
+  pronouns: "he" | "him",
+  tools_libraries: ["Bootstrap(CSS Framework)", "Tailwind(CSS utility-first framework)"],
+  ui_code: ["HTML5", "CSS3", "JavaScript", "React(JavaScript library for UI development)"],
+  authenticatin: "Firebase(Authentication & backend services)",
+  backend: ["NODE", "Express"],
+  database: "MongoDB(NoSQL database)",
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and next"
+}
+```
+
+###
+
 <h2 align="center">I code with</h2>
 
 ###
@@ -56,8 +77,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
 </div>
 
 ###
@@ -66,12 +85,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rizonahmed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizonahmed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rizonahmed/rizonahmed/output/snake.svg" alt="Snake animation" />
 
 ###
 
