@@ -24,7 +24,7 @@
 
 
 ```javascript
-const walidur = {
+const rizon = {
   pronouns: "he" | "him",
   tools_libraries: ["Bootstrap(CSS Framework)", "Tailwind(CSS utility-first framework)"],
   ui_code: ["HTML5", "CSS3", "JavaScript", "React(JavaScript library for UI development)"],
