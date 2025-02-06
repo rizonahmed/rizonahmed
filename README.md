@@ -13,10 +13,7 @@
 ###
 
 <p align="left">💻👨‍💻 **Front-End MERN Stack Developer | Passionate about Crafting Interactive 🎨, User-Friendly 🤝 & Responsive 📱 Web Applications**<br>🔥 My Tech Stack<br>⚛ React.js, Next.js – Crafting seamless UIs<br>🎨 Tailwind CSS, Styled Components – Designing with style<br>🛠 Node.js, Express.js – Backend wizardry<br>📡 MongoDB, Firebase – Storing the magic<br><br>📫 Let's Connect<br>💼 Portfolio: [portfolio-link]<br>👨‍💻 Turning ideas into smooth, scalable, and stunning web experiences.<br>⚡ Love working with React, Tailwind CSS, and modern JavaScript frameworks.<br>🎯 Always learning, always improving—because great code is never finished.</p>
-
-###
-
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning NextJS<br>🎯 Goals: Become a senior developer by 2025<br>🎲 Fun fact: I like to play 'Vice City' game 😎😎</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning NextJS<br>🎯 Goals: Become a senior developer on Future<br>🎲 Fun fact: I like  'world Tour'  😎😎</p>
 
 ###
 
